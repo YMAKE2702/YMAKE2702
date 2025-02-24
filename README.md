@@ -9,6 +9,9 @@
 - **Python**: основы, библиотеки Pandas, Matplotlib, Seaborn.
 - **SQL**: работа с базами данных.
 - **Tableau/Power BI**: создание дашбордов.
+![Excel](https://img.shields.io/badge/Excel-Expert-green)
+![Python](https://img.shields.io/badge/Python-Beginner-yellow)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
 
 ## 📂 Проекты
 - [Проект 1](ссылка): Описание проекта.
