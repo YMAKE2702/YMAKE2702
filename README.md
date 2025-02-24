@@ -5,10 +5,10 @@
 Моя цель — стать универсальным специалистом, способным работать с большими массивами данных и создавать инсайты для бизнеса.
 
 ## 🚀 Навыки
-- <i class="fas fa-chart-line"></i> Excel: продвинутые методы анализа и визуализации. ![Excel](https://img.shields.io/badge/Excel-Expert-green)
-- <i class="fab fa-python"></i> Python: основы, библиотеки Pandas, Matplotlib, Seaborn. ![Python](https://img.shields.io/badge/Python-Beginner-yellow)
+- 📊 Excel: продвинутые методы анализа и визуализации.  ![Excel](https://img.shields.io/badge/Excel-Expert-green)
+- 🐍 Python: основы, библиотеки Pandas, Matplotlib, Seaborn.  ![Python](https://img.shields.io/badge/Python-Beginner-yellow)
 - 🗃️ SQL: работа с базами данных.  ![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
-- 📈 Tableau/Power BI: создание дашбордов.
+- ![Tableau](https://lordicon.com/icons/wired/lineal/1007-data-visualization.gif) 📈 Tableup/Power BI: создание дашбордов.
 
 ## 📂 Проекты
 Сейчас я активно изучаю Python и SQL. В ближайшее время планирую добавить сюда свои первые проекты:
@@ -22,5 +22,4 @@
 
  
 ## 📫 Контакты
-- Email: твой_email@example.com
 - Telegram: [@ifreestar](https://t.me/freestar)
