@@ -8,7 +8,7 @@
 - 📊 Excel: продвинутые методы анализа и визуализации.  ![Excel](https://img.shields.io/badge/Excel-Expert-green)
 - 🐍 Python: основы, библиотеки Pandas, Matplotlib, Seaborn.  ![Python](https://img.shields.io/badge/Python-Beginner-yellow)
 - 🗃️ SQL: работа с базами данных.  ![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
-- 📈 Tableau/Power BI: создание дашбордов.
+- 📈 Datalens/Tableau/Power BI: создание дашбордов.
 
 ![Tableau](https://media.giphy.com/media/0YkmGRyM2VoknitKMJ/giphy.gif?cid=ecf05e47ptdpvtqwsic02l2vzlz9tk2t2ox2kig8fxj0vwsh&ep=v1_gifs_search&rid=giphy.gif&ct=g/giphy.gif)
 
