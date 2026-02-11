@@ -18,7 +18,7 @@
 - Создание дашборда в Tableau.
 
 ## 🎓 Обучение
-- Прохожу курс **"Аналитик данных"** на [Karpov.Courses](https://karpov.courses/analytics).
+- Закончила курс **"Аналитик данных"** на [Karpov.Courses](https://karpov.courses/analytics).
 - Изучаю Python, SQL и основы анализа данных.
 ![Karpov.Courses](https://img.shields.io/badge/Karpov.Courses-Аналитик_данных-blue)
 
