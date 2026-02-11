@@ -6,7 +6,7 @@
 
 ## 🚀 Навыки
 - 📊 Excel: продвинутые методы анализа и визуализации.  ![Excel](https://img.shields.io/badge/Excel-Expert-green)
-- 🐍 Python: основы, библиотеки Pandas, Matplotlib, Seaborn.  ![Python](https://img.shields.io/badge/Python-Beginner-yellow)
+- 🐍 Python: основы, библиотеки Pandas, Matplotlib, Seaborn, Plotly  ![Python](https://img.shields.io/badge/Python-Beginner-yellow)
 - 🗃️ SQL: работа с базами данных.  ![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
 - 📈 Datalens/Tableau/Power BI: создание дашбордов.
 
